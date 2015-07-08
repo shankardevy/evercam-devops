@@ -6,6 +6,11 @@
 * [Vagrant](http://www.vagrantup.com/downloads.html)
 * [Git](http://git-scm.com/downloads)
 
+#### Dependencies to be installed in Vagrant VM
+* Ruby 2.2.0 
+* Elixir 
+* Redis
+
 #### Clone this repository and it's submodules
 
 ```
